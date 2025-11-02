@@ -1,0 +1,3 @@
+# Ignore dataset and models
+tf_env/
+data/
