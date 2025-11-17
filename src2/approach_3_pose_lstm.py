@@ -11,7 +11,7 @@ import tensorflow as tf
 from tensorflow.keras.models import Model
 from tensorflow.keras.layers import Input, LSTM, Dense, Dropout
 
-DATASET_DIR = "datasets/dataset"
+DATASET_DIR = "data/WLASL/start_kit/dataset"
 NUM_FRAMES = 32
 
 # --- Utils ---
